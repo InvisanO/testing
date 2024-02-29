@@ -10,4 +10,6 @@ int main(){
 	int a = 5;
 	cout << a << endl;
 
+	int b = 14;
+	cout << b << endl;
 }
