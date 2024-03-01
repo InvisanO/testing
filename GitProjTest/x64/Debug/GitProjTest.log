@@ -1,2 +1,13 @@
 ﻿  main.cpp
-  GitProjTest.vcxproj -> C:\Users\user\Desktop\newprojgit\GitProjTest\x64\Debug\GitProjTest.exe
+C:\Users\user\Desktop\realproject\GitProjTest\main.cpp(69,14): error C2040: vec: "std::string []" отличается по уровням косвенного обращения от "std::vector<int,std::allocator<int>>"
+C:\Users\user\Desktop\realproject\GitProjTest\main.cpp(77,37): error C3536: it: не может использоваться до инициализации
+C:\Users\user\Desktop\realproject\GitProjTest\main.cpp(78,16): error C2100: недопустимое косвенное обращение
+C:\Users\user\Desktop\realproject\GitProjTest\main.cpp(78,13): error C2088: <<: недопустимо для class
+C:\Users\user\Desktop\realproject\GitProjTest\main.cpp(92,24): error C2086: std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> it: переопределение
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user\Desktop\realproject\GitProjTest\main.cpp(62,24): message : см. объявление "it"
+C:\Users\user\Desktop\realproject\GitProjTest\main.cpp(125,22): error C2371: it: переопределение; различные базовые типы
+C:\Users\user\Desktop\realproject\GitProjTest\main.cpp(62,24): message : см. объявление "it"

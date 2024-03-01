@@ -1,1 +1,2 @@
 C:\Users\user\Desktop\newprojgit\GitProjTest\x64\Debug\GitProjTest.exe
+C:\Users\user\Desktop\realproject\GitProjTest\x64\Debug\GitProjTest.exe
